@@ -1,4 +1,4 @@
-## Employee Management System for GIL(govt inovation lab)
+## Human Resource Management System for GIL(govt inovation lab)
 This Application is using Laravel.
 it has following features.
 1) it has complete dashboard for EMS(employ management system).
